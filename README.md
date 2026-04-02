@@ -1,0 +1,65 @@
+# MOB CHOIR – 99.9
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Get ready, wake your psyche up, MOB!
+Get ready, dig your anger up, MOB!
+Get ready, wake your psyche up, MOB!
+Get ready!
+
+Coming down, could you fill your satisfaction？
+You're a MOB. Can't you feel your own frustration？
+Coming down, could you fill your satisfaction？
+You're a MOB. What do you want to be？
+
+今、氾濫していく感情を身にまとってbreak it down
+限界超え、見える景色は？
+99.9! 99.9!
+正体不明のpercentage
+
+Cryin' my life, cryin' my psyche
+Cryin' my heart in such commonplaces！
+Is that your ideal？ Is that your mind？
+100になるとき始まる
+The MOB is alive. The MOB is high
+The MOB is staying frustrated, aren't you？
+Is that your ideal？ Is that your mind？ 今すぐ
+
+YOUR LIFE IS YOUR OWN
+
+Get ready, wake your psyche up, MOB！
+Get ready, dig your anger up, MOB！
+Get ready, wake your psyche up, MOB！
+Get ready！
+Coming down, could you fill your satisfaction？
+You're a MOB. Can't you feel your own frustration？
+Coming down, could you fill your satisfaction？
+You're a MOB. What do you want to be？
+
+この舞台の主役は僕だ
+
+Cryin' my life, cryin' my psyche
+Cryin' my heart in such commonplaces
+Is this my ideal？ Is this my mind？
+まだ答えを探している
+The MOB is alive. The MOB is high
+The MOB is staying frustrated, aren't you？
+This is the day, this is the time
+
+I'll break through'it'
+
+Cryin' my life, cryin' my psyche
+Cryin' my heart in such commonplaces！
+Is that your ideal？ Is that your mind？
+100になるとき始まる
+The MOB is alive. The MOB is high
+The MOB is staying frustrated, aren't you？
+Is that your ideal？ Is that your mind？ 今すぐ
+YOUR LIFE IS YOUR OWN
+
+Get ready, wake your psyche up, MOB！
+Get ready, dig your anger up, MOB！
+Get ready, wake your psyche up, MOB！
+Get ready！
+```
