@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "99.9",
+  "base_artist": "MOB CHOIR",
+  "createdAt": "2026-04-02T03:42:38.880996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "Suzanne Vega",
+      "has_synced": false,
+      "path": "select/01_99.9_Suzanne_Vega.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "99.9 F° (LP version)",
+      "artist": "Suzanne Vega",
+      "has_synced": true,
+      "path": "select/02_99.9_F°_(LP_version)_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "99.9 F",
+      "artist": "Suzanne Vega",
+      "has_synced": true,
+      "path": "select/03_99.9_F_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "99.9 F",
+      "artist": "Suzanne Vega",
+      "has_synced": true,
+      "path": "select/04_99.9_F_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "MOB CHOIR feat. sajou no hana",
+      "has_synced": true,
+      "path": "select/05_99.9_MOB_CHOIR_feat._sajou_no_hana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "99.9% Sure (I've Never Been Here Before)",
+      "artist": "Brian McComas",
+      "has_synced": true,
+      "path": "select/06_99.9__Sure_(I've_Never_Been_Here_Before)_Brian_McComas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "99.9 F",
+      "artist": "Vega, Suzanne",
+      "has_synced": true,
+      "path": "select/07_99.9_F_Vega,_Suzanne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "MOB CHOIR/sajou no hana",
+      "has_synced": true,
+      "path": "select/08_99.9_MOB_CHOIR_sajou_no_hana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "99.9 (Mob Psycho 100 II)",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/09_99.9_(Mob_Psycho_100_II)_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "Jeremy Zucker",
+      "has_synced": true,
+      "path": "select/10_99.9_Jeremy_Zucker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "Sapphire feat. Y. Chang",
+      "has_synced": false,
+      "path": "select/11_99.9_Sapphire_feat._Y._Chang.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "99.9",
+      "artist": "Sapphire, Y. Chang",
+      "has_synced": false,
+      "path": "select/12_99.9_Sapphire,_Y._Chang.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "99.9 F°",
+      "artist": "Suzanne Vega",
+      "has_synced": true,
+      "path": "select/13_99.9_F°_Suzanne_Vega.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "99,9%",
+      "artist": "Kollegah",
+      "has_synced": false,
+      "path": "select/14_99,9_Kollegah.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "99,9%",
+      "artist": "Kollegah",
+      "has_synced": false,
+      "path": "select/15_99,9_Kollegah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "99.9",
+      "artist": "MOB CHOIR",
+      "has_synced": false,
+      "path": "select/pl_01_99.9_MOB_CHOIR.txt"
+    }
+  ]
+}
